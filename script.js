@@ -1,4 +1,3 @@
-
 const formLogin = document.getElementById("formLogin");
 const formCadastro = document.getElementById("formCadastro");
 
